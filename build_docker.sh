@@ -1,1 +1,0 @@
-docker build -t jlgrock/github_wiki_to_pdf .
